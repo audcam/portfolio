@@ -154,8 +154,8 @@ a{
     width: 49.5%;
     margin-bottom: 1%;
   }
-  #magphotos{
-    width: 80%;
+  .gallery{
+    width: 90%;
     margin: auto;
   }
   .container{

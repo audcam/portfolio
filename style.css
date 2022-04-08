@@ -246,11 +246,14 @@ footer h2{
 h4{
   padding-bottom: 10px;
 }
-.photo h2{
-
-  
+.doesitblend h3{
+  text-align: center;
+  margin-left:5%;
+  margin-right: 5%;
 }
-
+.doesitblend h4{
+  padding-bottom: 5px;
+}
   @media only screen and (min-width: 600px) {
     .cover{
         width: 33.3333%;

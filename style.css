@@ -231,6 +231,9 @@ footer{
   margin: 0;
   text-align: center;
 }
+footer h2{
+  margin-bottom: 10px;
+}
 #love{
   display: flex;
   flex-wrap: wrap;

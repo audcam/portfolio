@@ -205,6 +205,48 @@ a{
     width: 500px;
     display: block;
   }
+  .resume{
+    padding-top: 25px;
+    display: block;
+    margin: auto;
+  }
+button{
+  display: block;
+  padding: 15px;
+  margin: auto;
+  text-align: center;
+  background-color: #194276;
+  color: #fff;
+  font-family: 'Poppins', sans-serif;
+  font-size: 20px;
+}
+button:hover{
+  background-color: #fff;
+  color: #194276;
+}
+footer{
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  margin: 0;
+}
+#love{
+  display: flex;
+  flex-wrap: wrap;
+  text-align: center;
+}
+.photo{
+  width: 20%;
+  
+
+}
+h4{
+  padding-bottom: 10px;
+}
+.photo h2{
+
+  
+}
 
   @media only screen and (min-width: 600px) {
     .cover{

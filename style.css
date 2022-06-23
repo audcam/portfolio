@@ -262,6 +262,9 @@ h4{
 .doesitblend h4{
   padding-bottom: 5px;
 }
+#retagen{
+  margin-bottom: 5%;
+}
   @media only screen and (min-width: 600px) {
     .cover{
         width: 33.3333%;

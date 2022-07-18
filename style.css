@@ -296,3 +296,55 @@ h4{
         text-decoration: none;
       }
   }
+  .neighbor{
+    text-align: left;
+    margin-left: 10%;
+    margin-right: 10%;
+  }
+  h5{
+    font-size: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: #05080b;
+    font-weight: 200;
+    line-height: 125%;
+    
+  }
+  .persona{
+    max-width: 90%;
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    align-items: center;
+    
+  }
+  .persona img{
+    max-width: 50%;
+  }
+  .persona li{
+    font-size: 15px;
+    color: #05080b;
+    font-weight: 200;
+    line-height: 125%;
+    list-style-type: circle;
+    margin-left: 45px;
+  }
+  #behaviour{
+    list-style-type: none;
+    margin-left: 0;
+    font-weight: 400;
+    line-height: 150%;
+
+  }
+  #frustrations{
+    list-style-type: none;
+    margin-left: 0;
+    font-weight: 400;
+    line-height: 150%;
+
+  }
+  #leftspace{
+    text-align: left;
+    margin-left: 10%;
+    margin-right: 10%;
+  }

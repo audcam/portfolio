@@ -10,7 +10,7 @@ iframe{
 }
 h1{text-align: center;
   font-family: 'Varela Round', sans-serif;
-  padding-bottom: 4%;
+  padding-bottom: 1%;
 }
 
 header{
@@ -348,4 +348,7 @@ h4{
     text-align: left;
     margin-left: 10%;
     margin-right: 10%;
+  }
+  #headerspace{
+    padding-bottom: 2%;
   }

@@ -208,6 +208,11 @@ a{
     width: 500px;
     display: block;
   }
+  #bio{
+    margin-left: 10%;
+    margin-right: 10%;
+    max-width: 500px;
+  }
   .resume{
     padding-top: 25px;
     display: block;

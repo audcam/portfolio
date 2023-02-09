@@ -283,6 +283,7 @@ h4{
 .treebook img{
   width: 49.75%;
   margin-bottom: .50%;
+  object-fit: cover;
 }
   @media only screen and (min-width: 600px) {
     .cover{
